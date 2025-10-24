@@ -1,0 +1,12 @@
+/* Make entire page black */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  background-color: #000000;
+  /* black */
+  color: #ffffff;
+  /* default text white */
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
